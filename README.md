@@ -11,7 +11,7 @@ To simply use the latest, published Docker image
 docker pull shoresuite/alpine-elixir
 ```
 
-However, it's recommended that you specify the exact image version (based on Erlang/OTP version)
+However, it's recommended that you specify the exact image version (based on Elixir version)
 
 ```
 docker pull shoresuite/alpine-elixir:1.8.0
