@@ -3,7 +3,7 @@ FROM shoresuite/alpine-erlang:${ALPINE_ERLANG_VERSION}
 
 LABEL maintainer="Alistair A. Israel <alistair@shoresuite.com>"
 
-ARG ELIXIR_VERSION=1.8.0
+ARG ELIXIR_VERSION=1.8.1
 
 WORKDIR /tmp/elixir-build
 
